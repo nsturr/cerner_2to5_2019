@@ -3,6 +3,9 @@
 Use the words.csv from the 'words' directory one above - generate a quiz question from four definitions.
 Display the chosen word and all the definitions (sorted). The user must choose the correct answer.
 
+This is not so much a "Engineering Productivity" as a way to play around with and work with Python.
+This was more of a "it works" type of project.
+
 This was run with Python3 ([3.6.9](https://www.python.org/downloads/release/python-369/) specifically)
 from [Cygwin](https://cygwin.com/index.html).
 

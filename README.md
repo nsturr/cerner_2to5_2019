@@ -7,4 +7,6 @@ file stored in the 'words' directory.
 I've been collecting words from various books, articles, etc over the years. This
 collection will use that list for learning different languages.
 
-Day 01 - Python Word Quiz
+Updates:
+* Day 01 - Python Word Quiz
+* Day 02 - Windows Batch Git checkout script
