@@ -10,3 +10,4 @@ collection will use that list for learning different languages.
 Updates:
 * Day 01 - Python Word Quiz
 * Day 02 - Windows Batch Git checkout script
+* Day 03 - C++ Where Am I program
