@@ -1,11 +1,11 @@
 # Day 04 - Java Shell and Kumo Word Cloud
 
-This little JDK JShell with [JDK 12.0.2](https://jdk.java.net/12/) to generate a PNG word cloud
-from an input text file. I've been facinated with new JShell and use it a lot at work. This let me
-explore a little of the save/open and class-path command line option.
+This is a little JDK JShell script developed with [JDK 12.0.2](https://jdk.java.net/12/) to generate a
+PNG word cloud from an input text file. I've been fascinated with new JShell and use it a lot at work.
+This let me explore a little of the save/open and class-path command line option.
 
-Download the [Kumo 1.8](https://repo1.maven.org/maven2/com/kennycason/kumo/1.8/) JAR and Java 12 JDK and run
-the JShell. Load the JSH and open the generated PNG file.
+Download the [Kumo 1.8](https://repo1.maven.org/maven2/com/kennycason/kumo/1.8/) JAR and Java 12 JDK
+and run the JShell. Load the JSH and open the generated PNG file.
 
 JShell usage:
 ```

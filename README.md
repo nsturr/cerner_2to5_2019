@@ -1,11 +1,13 @@
 # Cerner 2^5 2019 Programming Competition
 
 This is my submissions for the Cerner 2^5 programming competition. Each day is
-separated into individual folders (appropriately named). Each will use the words CSV
-file stored in the 'words' directory.
+separated into individual folders (appropriately named).
 
-I've been collecting words from various books, articles, etc over the years. This
-collection will use that list for learning different languages.
+The theme is "Engineering Productivity" which, to me, can mean small programs that
+help with productivity but it can also mean learning new languages which might lead
+to productivity improvement (new tools means new opprotunities for finding the right
+tool for the right problem).
+
 
 Updates:
 * [Day 01 - Python Word Quiz](day01)
