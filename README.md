@@ -11,3 +11,4 @@ Updates:
 * Day 01 - Python Word Quiz
 * Day 02 - Windows Batch Git checkout script
 * Day 03 - C++ Where Am I program
+* Day 03 - Java Shell and Kumo Word Cloud
