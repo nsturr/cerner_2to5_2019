@@ -8,7 +8,7 @@ I've been collecting words from various books, articles, etc over the years. Thi
 collection will use that list for learning different languages.
 
 Updates:
-* Day 01 - Python Word Quiz
-* Day 02 - Windows Batch Git checkout script
-* Day 03 - C++ Where Am I program
-* Day 04 - Java Shell and Kumo Word Cloud
+* [Day 01 - Python Word Quiz](day01)
+* [Day 02 - Windows Batch Git checkout script](day02)
+* [Day 03 - C++ Where Am I program](day03)
+* [Day 04 - Java Shell and Kumo Word Cloud](day04)
