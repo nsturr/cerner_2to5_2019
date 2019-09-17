@@ -1,4 +1,4 @@
-# Day 03 - Java Shell and Kumo Word Cloud
+# Day 04 - Java Shell and Kumo Word Cloud
 
 This little JDK JShell with [JDK 12.0.2](https://jdk.java.net/12/) to generate a PNG word cloud
 from an input text file. I've been facinated with new JShell and use it a lot at work. This let me
