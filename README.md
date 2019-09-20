@@ -14,3 +14,4 @@ Updates:
 * [Day 02 - Windows Batch Git checkout script](day02)
 * [Day 03 - C++ Where Am I program](day03)
 * [Day 04 - Java Shell and Kumo Word Cloud](day04)
+* [Day 05 - Java Version of md5sum](day05)
