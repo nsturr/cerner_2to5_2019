@@ -15,3 +15,4 @@ Updates:
 * [Day 03 - C++ Where Am I program](day03)
 * [Day 04 - Java Shell and Kumo Word Cloud](day04)
 * [Day 05 - Java Version of md5sum](day05)
+* [Day 06 - C++ Share Info Display](day06)
