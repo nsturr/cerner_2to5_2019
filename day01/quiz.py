@@ -24,7 +24,8 @@ print('    4. ' + options[3])
 print('Answer? ');
 
 choice = int(input()) - 1
-if (choice > 0 and choice < 5 and id(options[choice]) == id(answer)):
+if (choice >= 0 and choice <= 3 and id(options[choice]) == id(answer)):
     print('Correct!')
 else:
     print('Wrong! The correct definition is: ' + answer)
+
