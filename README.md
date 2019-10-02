@@ -16,3 +16,4 @@ Updates:
 * [Day 04 - Java Shell and Kumo Word Cloud](day04)
 * [Day 05 - Java Version of md5sum](day05)
 * [Day 06 - C++ Share Info Display](day06)
+* [Day 07 - Perl generate JSON](day07)
