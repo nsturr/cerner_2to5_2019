@@ -1,6 +1,7 @@
 #include <iomanip>
 #include <iostream>
 #include <string>
+// cerner_2^5_2019
 #define ERROR_OUT(CHECK,MSG) if (CHECK) {std::cout << MSG << std::endl; return 0;}
 std::string print_ascii(const char c) {
     if (c == '\a') return "\\a";
