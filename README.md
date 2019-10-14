@@ -17,3 +17,4 @@ Updates:
 * [Day 05 - Java Version of md5sum](day05)
 * [Day 06 - C++ Share Info Display](day06)
 * [Day 07 - Perl generate JSON](day07)
+* [Day 08 - C++ Hexdump](day08)
